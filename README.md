@@ -2,7 +2,7 @@
 - 👀 I’m interested in competative Programming and front-end development
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? you can always connect to me my mail id.
+- 📫 How to reach me? you can always connect with me on my mail id.
 - Hobbies: Singing and Drawing.
 - My Projects:
   1.To Do List
