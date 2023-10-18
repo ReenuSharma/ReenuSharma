@@ -1,14 +1,11 @@
 - 👋 Hi, I’m @ReenuSharma 
-- 👀 I’m interested in competative Programming and front-end development
+- 👀 I’m interested in Programming and development
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? you can always connect with me on my mail id.
+- 📫 How to reach me? LinkedIn: www.linkedin.com/in/reenu-sharma-is-in-the-study-room.
 - Hobbies: Singing and Drawing.
 - My Projects:
-  1.To Do List
-  2.Poem Page
-  3.shopping Interface
-  4.Bouncing Balls
+  1. Timer: A react.js projects focused on applying concepts like components and server to produce a web application that keeps track of timeline for multiple tasks simultaneously with added functionality of editing new timer and updating existing ones.
 
 <!---
 ReenuSharma/ReenuSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
